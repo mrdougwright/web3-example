@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@alch/alchemy-web3": "^1.0.2"
+    "@alch/alchemy-web3": "^1.0.2",
+    "dotenv": "^9.0.1"
   }
 }
